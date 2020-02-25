@@ -135,10 +135,37 @@ li.nav-item.active > a{
 }
 
 .img-brand{
-   width: 100px;
+   width: 150px;
    height: auto;
 }
 
 .col-brand{
    text-align: center;
+}
+
+section#footer{
+   color: white;
+   font-size: .9rem;
+}
+
+.box-address h5{
+   text-align: center;
+}
+
+.box-address ul li{
+   list-style: none;
+}
+
+.service-point h5{
+   text-align: center;
+}
+
+.footer-date{
+   text-align: center;
+}
+
+@media screen and (max-width: 768px){
+   .footer-date{
+      margin-top: 1.7rem;
+   }
 }
