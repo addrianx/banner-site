@@ -168,4 +168,14 @@ section#footer{
    .footer-date{
       margin-top: 1.7rem;
    }
+
+   .box-address{
+      margin-bottom: 2.5rem;
+   }
+   .box-contact{
+      margin-bottom: 2.5rem;
+   }
+   .service-point{
+      margin-bottom: 2.5rem;
+   }
 }
